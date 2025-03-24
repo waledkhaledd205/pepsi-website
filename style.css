@@ -156,6 +156,9 @@ nav ul a {
     width: 100px;
     margin-bottom: 10px;
   }
+    html {
+      scrollbar-color: white #3d4a59;
+    }
 
 
   #header .content .content-text p {
